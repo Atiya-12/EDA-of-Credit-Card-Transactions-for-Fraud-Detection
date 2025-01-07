@@ -1,4 +1,3 @@
-Credit Card Fraud Detection: Exploratory Data Analysis (EDA)
 This project focuses on exploring a credit card transaction dataset to identify fraudulent activities. The dataset is imbalanced, with a small percentage of transactions classified as fraudulent. Here, we only do the exploratory data analysis (EDA) process that involves answering key questions to understand the data and its characteristics, such as:
 Number of rows and columns in the dataset.
 Column names and their respective data types.
