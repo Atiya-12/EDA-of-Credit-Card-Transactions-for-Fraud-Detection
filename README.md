@@ -12,9 +12,6 @@ Fraudulent transaction percentages.
 * #### EDA Techniques:
   Includes statistical analysis, visualizations, and descriptive insights into transaction patterns.
 
-* #### Fraud Analysis:
-  Emphasizes the detection of imbalances and patterns specific to fraudulent activities.
-
 ### **Tools and Libraries**
 * Numpy: For numerical operations and statistical computations.
 * Pandas: For data manipulation and analysis.
