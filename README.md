@@ -13,14 +13,14 @@ Fraudulent transaction percentages.
 * #### EDA Techniques:
   Includes statistical analysis, visualizations, and descriptive insights into transaction patterns.
 
-* ##### Fraud Analysis:
+* #### Fraud Analysis:
   Emphasizes the detection of imbalances and patterns specific to fraudulent activities.
 
 ### **Tools and Libraries**
 * Numpy: For numerical operations and statistical computations.
 * Pandas: For data manipulation and analysis.
-* Matplotlib & seaborn : For visualizing transaction trends and insights
+* Matplotlib & seaborn: For visualizing transaction trends and insights
 
-### **Dataset Details:**
+### **Dataset Details**
 Dataset Name: Credit Card Fraud Detection Dataset
 Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
